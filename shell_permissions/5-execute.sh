@@ -1,2 +1,2 @@
 #!/bin/bash
-touch hello | chmod -c 700 hello
+touch hello | chmod -c 744 hello
