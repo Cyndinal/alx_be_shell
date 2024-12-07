@@ -1,2 +1,3 @@
 #!/bin/bash
-touch hello | chmod -c 753 hello
+touch hello | chmod -c 753 hello 
+
